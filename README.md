@@ -5,7 +5,7 @@
   <a href="https://github.com/ItaloRAmaral">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=ItaloRAmaral&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloRAmaral&layout=compact&langs_count=7&theme=dracula"/>
-<!--     <img heigh height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=italo-ol&theme=dark&fire=2FC18C&ring=2FC18C&background=1A1D21&currStreakLabel=2FC18C"/> -->
+    <img heigh height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=ItaloRAmaral&theme=dark&fire=2FC18C&ring=2FC18C&background=1A1D21&currStreakLabel=2FC18C"/>
 </div>
 <div style="display: inline_block"><br>
     <img align="center" alt="Italo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
