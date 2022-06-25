@@ -15,9 +15,11 @@
   <img align="center" alt="Italo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <img align="center" alt="Italo-Redux" height="30" width="40" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png">
 <!--   <img align="center" alt="Italo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
-  <img align="right" alt="Italo-pic" height="150" style="border-radius:50%;" src="https://c.tenor.com/_OylLTmUC8wAAAAd/stitch-hi.gif">
+  <img align="right" alt="Italo-pic" height="150" style="border-radius:50%" src="https://c.tenor.com/_OylLTmUC8wAAAAd/stitch-hi.gif">
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
+  
 </div>
- 
+ <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
   
   ##
  
@@ -25,6 +27,6 @@
   <a href="https://www.instagram.com/italoramaral/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.linkedin.com/in/italo-rockenbach-594082132/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-<!--   ![Snake animation](https://github.com/ItaloRAmaral/ItaloRAmaral/blob/output/github-contribution-grid-snake.svg) -->
+  ![Snake animation](https://github.com/ItaloRAmaral/ItaloRAmaral/blob/output/github-contribution-grid-snake.svg)
  
 </div>
