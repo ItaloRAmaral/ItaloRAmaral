@@ -4,7 +4,7 @@
 
 <div>
   <p> 👨‍💻 I'm a Jr Fullstack Developer with an emphasis on the Front End </p>
-  <p> 📧 italoamaralrock@gmail.com </p>
+  <p> 📧 italorockamaral@gmail.com </p>
 </div>
 
 <div align="center">
