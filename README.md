@@ -15,7 +15,7 @@
 </div>
 
 
-<h2> 👨‍💻 Stacks </h2>
+<h2> :hammer_and_wrench: Stacks </h2>
 
 <h2> Core </h2>
 <section>
