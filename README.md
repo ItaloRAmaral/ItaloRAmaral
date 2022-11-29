@@ -12,7 +12,7 @@ const aboutMe = {
     'play games',
     'watch movies',
     'listen to music',
-  ]
+  ],
   softSkills: [
     'comunication',
     'teamwork',
