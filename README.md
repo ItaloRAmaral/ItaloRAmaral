@@ -4,7 +4,7 @@
 
 ```JavaScript
 const aboutMe = {
-  name: 'Italo Rockenbach Amaral',
+  name: 'Italo Rockenbach',
   age: '27';
   country: 'Brazil',
   hobbies: [
