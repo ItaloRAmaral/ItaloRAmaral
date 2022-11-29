@@ -5,7 +5,8 @@
 ```JavaScript
 const aboutMe = {
   name: 'Italo Rockenbach',
-  age: '27';
+  age: '27',
+  rank: 'Web Developer',
   country: 'Brazil',
   hobbies: [
     'play games',
@@ -23,8 +24,8 @@ const aboutMe = {
 function contatcMe() {
   return {
     email: 'italorockamaral@gmail.com',
-    linkedin: 'https://www.linkedin.com/in/italo-rockenbach/';
-    whatsapp: '+55 48 98824-0149';
+    linkedin: 'https://www.linkedin.com/in/italo-rockenbach/',
+    whatsapp: '+55 48 98824-0149',
   }
 }
 ```
