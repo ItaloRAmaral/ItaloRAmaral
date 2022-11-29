@@ -6,7 +6,6 @@
 const aboutMe = {
   name: 'Italo Amaral',
   age: '27';
-  level: 'Junior',
   country: 'Brazil',
   hobbies: [
     'play games',
