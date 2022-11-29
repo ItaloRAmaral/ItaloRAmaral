@@ -1,4 +1,4 @@
-<img src="./images/banner.png" alt="Info Banner" height="150px" width= "100%" />
+<img src="./images/banner.png" alt="Info Banner" />
 
 <img src="./images/avatar.svg" alt="Avatar"  align="right" width="335px"/>
 
