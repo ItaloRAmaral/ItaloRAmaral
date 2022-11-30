@@ -14,14 +14,14 @@ const aboutMe = {
     'listen to music',
   ],
   softSkills: [
-    'comunication',
+    'communication',
     'teamwork',
     'leadership',
     'organization'
   ]
 };
 
-function contatcMe() {
+function contactMe() {
   return {
     email: 'italorockamaral@gmail.com',
     linkedin: 'https://www.linkedin.com/in/italo-rockenbach/',
