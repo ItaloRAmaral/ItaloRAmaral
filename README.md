@@ -25,7 +25,6 @@ function contactMe() {
   return {
     email: 'italorockamaral@gmail.com',
     linkedin: 'https://www.linkedin.com/in/italo-rockenbach/',
-    whatsapp: '+55 48 98824-0149',
   }
 }
 ```
