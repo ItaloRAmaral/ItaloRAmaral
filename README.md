@@ -70,6 +70,7 @@ function contactMe() {
 <section align="center">
     <img src="https://img.shields.io/badge/Github_Actions-black?style=for-the-badge&logo=github+actions&logoColor=white" />
     <img src="https://img.shields.io/badge/Bitbucket_Pipelines-0452CC?style=for-the-badge&logo=bitbucket" />
+    <img src="https://img.shields.io/badge/lerna-C084FC?style=for-the-badge&logo=lerna" />
 </section>
 
 <h1 align="center"> Architecture </h1>
@@ -101,11 +102,11 @@ function contactMe() {
   <img src="https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white" />
 </section>
 
-<h1 align="center"> Still Learning </h1>
+<h1 align="center">  Studing </h1>
 <section align="center">
   <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/lerna-C084FC?style=for-the-badge&logo=lerna" />
+  <img src="https://img.shields.io/badge/go-gray?style=for-the-badge&logo=go" />
 </section>
 
 <br>
