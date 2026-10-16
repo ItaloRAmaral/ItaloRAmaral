@@ -25,6 +25,7 @@ function contactMe() {
   return {
     email: 'italorockamaral@gmail.com',
     linkedin: 'https://www.linkedin.com/in/italo-rockenbach/',
+    portifolio: 'https://italorockenbachdev.vercel.app/'
   }
 }
 ```
