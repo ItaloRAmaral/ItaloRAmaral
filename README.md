@@ -5,7 +5,7 @@
 ```JavaScript
 const aboutMe = {
   name: 'Italo Rockenbach',
-  age: '29',
+  age: '31',
   rank: 'Team Lead & Full Stack Developer',
   country: 'Brazil',
   hobbies: [
