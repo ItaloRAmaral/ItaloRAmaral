@@ -6,7 +6,7 @@
 const aboutMe = {
   name: 'Italo Rockenbach',
   age: '31',
-  rank: 'Team Lead & Full Stack Developer',
+  rank: 'Software Engineer',
   country: 'Brazil',
   hobbies: [
     'play games',
