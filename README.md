@@ -17,7 +17,7 @@ Back-end focused software engineer building services with **TypeScript** and **N
 - ⚡ **Back end:** REST APIs, event-driven systems with Kafka, relational and document databases
 - 🏗️ **Architecture:** hexagonal architecture, domain-driven boundaries, monorepos with Nx and Lerna
 - 🧪 **Quality:** unit, integration and end-to-end testing as part of everyday work
-- ☁️ **Learning now:** Terraform and Go
+- 🌱 **Always learning:** I enjoy picking up new tools and taking on challenges outside my comfort zone. Right now: Terraform and Go
 - 📍 **Based in** Florianópolis, Brazil
 
 <br/>
